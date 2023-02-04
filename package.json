@@ -1,0 +1,23 @@
+{
+  "name": "express_learn",
+  "version": "1.0.0",
+  "description": "This is a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dante1930/express.git"
+  },
+  "author": "Sahil Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dante1930/express/issues"
+  },
+  "homepage": "https://github.com/Dante1930/express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
